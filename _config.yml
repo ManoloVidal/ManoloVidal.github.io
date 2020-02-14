@@ -1,11 +1,11 @@
 # Site settings
-author: Juan Vidal-Ramos
-title: 
+author: Juan Vidal
+title: Adventures in coding
 header-img: img/home-bg.png
 email: vidalramosjm@gmail.com
-copyright_name: Juan Vidal-Ramos
+copyright_name: Juan Vidal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  or, the emancipation of one Juan Vidal
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ManoloVidal
